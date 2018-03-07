@@ -1,45 +1,38 @@
 fileFormatVersion: 2
 guid: 2c5eb1e5fb7ea451094f474c97c2c7dd
-timeCreated: 1520452338
+timeCreated: 1520455750
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Armature
-    100002: Camera
-    100004: Controller.Eye.L
-    100006: Controller.Eye.L_end
-    100008: Controller.Eye.R
-    100010: Controller.Eye.R_end
-    100012: Controller.Eyes
-    100014: Eye.L
-    100016: Eye.L 1
-    100018: Eye.L_end
-    100020: Eye.R
-    100022: Eye.R 1
-    100024: Eye.R_end
-    100026: Head
-    100028: //RootNode
-    100030: Head 1
-    100032: Lamp
-    400000: Armature
-    400002: Camera
-    400004: Controller.Eye.L
-    400006: Controller.Eye.L_end
-    400008: Controller.Eye.R
-    400010: Controller.Eye.R_end
-    400012: Controller.Eyes
-    400014: Eye.L
-    400016: Eye.L 1
-    400018: Eye.L_end
-    400020: Eye.R
-    400022: Eye.R 1
-    400024: Eye.R_end
-    400026: //RootNode
-    400028: Head
-    400030: Head 1
-    400032: Lamp
-    2000000: Camera
+    100000: Controller.Eye.L
+    100002: Controller.Eye.L_end
+    100004: Controller.Eye.R
+    100006: Controller.Eye.R_end
+    100008: Controller.Eyes
+    100010: Eye.L
+    100012: Eye.L_end
+    100014: Eye.R
+    100016: Eye.R_end
+    100018: Head
+    100020: //RootNode
+    100022: Eye.L 1
+    100024: Eye.R 1
+    100026: Head 1
+    400000: Controller.Eye.L
+    400002: Controller.Eye.L_end
+    400004: Controller.Eye.R
+    400006: Controller.Eye.R_end
+    400008: Controller.Eyes
+    400010: Eye.L
+    400012: Eye.L_end
+    400014: Eye.R
+    400016: Eye.R_end
+    400018: Head
+    400020: //RootNode
+    400022: Eye.L 1
+    400024: Eye.R 1
+    400026: Head 1
     2100000: No Name
     2100002: eye_ball
     2100004: eye_iris_blue
@@ -54,9 +47,9 @@ ModelImporter:
     4300002: Eye.L
     4300004: Eye.R
     7400000: Armature|Look_Crosseyed
-    7400002: Armature|Look_UpAndDown
+    7400002: Armature|Look_Guilt
+    7400004: Armature|Look_UpAndDown
     9500000: //RootNode
-    10800000: Lamp
   externalObjects: {}
   materials:
     importMaterials: 1
