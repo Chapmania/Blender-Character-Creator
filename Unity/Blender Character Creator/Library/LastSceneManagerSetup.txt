@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Head_Animated.unity
+- path: Assets/CubeDude.unity
   isLoaded: 1
   isActive: 1
